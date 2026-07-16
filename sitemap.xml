@@ -4,9 +4,41 @@
   <!-- Main Webpage -->
   <url>
     <loc>https://uroosaseokhan-sketch.github.io/zaiqaa/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <!-- Recipes -->
+  <url>
+    <loc>https://uroosaseokhan-sketch.github.io/zaiqaa/recipes/index.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uroosaseokhan-sketch.github.io/zaiqaa/recipes/chicken-biryani.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://uroosaseokhan-sketch.github.io/zaiqaa/recipes/chicken-karahi.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://uroosaseokhan-sketch.github.io/zaiqaa/recipes/chana-masala.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://uroosaseokhan-sketch.github.io/zaiqaa/recipes/haldi-doodh-turmeric-milk.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
